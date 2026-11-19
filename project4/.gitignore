@@ -1,0 +1,7 @@
+# Runtime output only. Leading slash = this folder, NOT src/chocan/data or src/chocan/reports
+/out/
+/data/
+/reports/
+/sources.txt
+*.class
+.DS_Store
